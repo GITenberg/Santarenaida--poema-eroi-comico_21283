@@ -1,0 +1,33 @@
+_repo: Santarenaida--poema-eroi-comico_21283
+_version: 0.1.0
+alternative_title: 'Santarenaida: poema herói-cómico'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Figueiredo, Francisco de Paula de
+    birthdate: 1768
+    deathdate: 1803
+    gutenberg_agent_id: '9828'
+    url: http://www.gutenberg.org/2009/agents/9828
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2007-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21283'
+language: pt
+language_note: This ebook uses 18th century spelling
+production_note: "Produced by Pedro Saborano. Para comentários à transcrição\r\nvisite\
+  \ http://pt-scriba.blogspot.com (This book was\r\nproduced from scanned images of\
+  \ public domain material\r\nfrom the Google Print project.)"
+publication_note: "Coimbra:\r\nNa Regia Officina Typografica\r\n1792"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: 'Santarenaida: poema eroi-comico'
+url: http://www.gutenberg.org/ebooks/21283
